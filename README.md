@@ -7,6 +7,6 @@
 >
 > we mostly do HTML and CSS.
 >
-> for lucas games: <a href=https://lucasgames.neocities.org/index>click here</a>.
+> for lucas games: <a href="https://lucasgames.neocities.org/" target="_blank">click here</a>.
 >
-> for caleb games: <a href=https://calebgames.neocities.org/index>click here</a>.
+> for caleb games: <a href="https://calebgames.neocities.org/" target="_blank">click here</a>.
